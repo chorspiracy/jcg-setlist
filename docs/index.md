@@ -15,7 +15,7 @@ Der Eintritt ist frei.
 * [**Ander Sevdaluk**](02-ander-sevdaluk)
 * [**How Sweet it is**](03-how-sweet-it-is)
 * [**Locus iste**](04-Locus-iste)
-* [**Unissasi Laulet**](05-Unissasi-Laulet)
+* [**Unissasi Laulelet**](05-Unissasi-Laulelet)
 * [**Festung**](06-Festung)
 * [**Voi Voi**](07-voi-voi)
 * [**Gjendines Bådnlåt**](08-Gjendines-Bådnlåt)
