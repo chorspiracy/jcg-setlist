@@ -3,31 +3,22 @@ hide:
   - toc
 ---
 
-# Sommer Konzert - 25. August
+# Winter Konzert - 28. Februar
 
-Willkommen zum Sommerkonzert des Jazzchor Campus Golm! Wir freuen uns, Sie am
-25. August um 20 Uhr in der Alten Neuendorfer Kirche begrüßen zu dürfen.
+Willkommen zum Winterkonzert des Jazzchor Campus Golm! Wir freuen uns, Sie am
+28. Februar um 19 Uhr in der Kirche Golm begrüßen zu dürfen.
 Der Eintritt ist frei.
 
 ## Programm
 
-* [**Time After Time**](01-time-after-time)
-* [**I'll Be There For You**](02-ill-be-there-for-you)
-* [**Raindrops Keep Fallin' On My Head**](03-raindrops)
-* [**Only You**](04-only-you)
-* [**How Sweet It Is**](05-how-sweet-it-is)
-* [**Ander Sevdaluk**](06-ander-sevdaluk)
-* [**Chili Con Carne**](07-chili-con-carne)
+* [**#lautsein**](01-Lautsein)
+* [**Ander Sevdaluk**](02-ander-sevdaluk)
+* [**How Sweet it is**](03-how-sweet-it-is)
+* [**Locus iste**](04-Locus-iste)
+* [**Unissasi Laulet**](05-Unissasi-Laulet)
+* [**Festung**](06-Festung)
+* [**Voi Voi**](07-voi-voi)
+* [**Gjendines Bådnlåt**](08-Gjendines-Bådnlåt)
+* [**Mr Blue Sky**](09-Mr-Blue-Sky)
 
-*Pause*
-
-* [**I Get Around**](08a-i-get-around)
-* [Mittmachteil **Da pacem, Domine**](08b-da-pacem-domine)
-* [**The Continental**](09-the-continental)
-* [**Eternal Flame**](10-eternal-flame)
-* [**Tourdion**](11-tourdion)
-* [**Baba Yetu**](12-baba-yetu)
-* [**Scarborough Fair**](13-scarborough-fair)
-* [**Voi Voi**](14-voi-voi)
-
-*Und wenn ihr nett fragt gibts vielleicht noch ne Zugabe ;)*
+*Und wenn ihr nett fragt und euch noch warm ist, gibts vielleicht noch ein Paar Zugaben ;)*
