@@ -1,6 +1,6 @@
-# Locus iste
+# Gejendines Bådnlåt
 
-Anton Bruckner
+Per Mathisson Offvid
 
 <table>
   <tr>
