@@ -12,7 +12,7 @@ Der Eintritt ist frei.
 ## Programm
 
 * [**#lautsein**](01-Lautsein)
-* [**Jul, Jul, Strålande Jul**](02-jul-jul-stralande-jul)
+* [**Jul, Jul, Strålande Jul**](02-jul-jul-strålande-jul)
 * [**Time after time**](03-time-after-time)
 * [**Ander Sevdaluk**](04-ander-sevdaluk)
 * [**How Sweet it is**](03-how-sweet-it-is)
