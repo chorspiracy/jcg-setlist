@@ -12,7 +12,7 @@ Der Eintritt ist frei.
 ## Programm
 
 * [**#lautsein**](01-Lautsein)
-* [**Jul, Jul, Strålande Jul**](02-jul-jul-strålande-jul)
+* [**Jul, Jul, Strålande Jul**](02-jul-jul-stralande-jul)
 * [**Time after time**](03-time-after-time)
 * [**Ander Sevdaluk**](04-ander-sevdaluk)
 * [**How Sweet it is**](03-how-sweet-it-is)
@@ -25,7 +25,7 @@ kurze Pause
 
 * [**Chili Con Carne**](11-chili-con-carne)
 * [**Voi Voi**](12-voi-voi)
-* [**Gjendines Bådnlåt**](13-Gjendines-Bådnlåt)
+* [**Gjendines Bådnlåt**](13-Gjendines-Badnlat)
 * [**Fragile**](14-fragile)
 * [**Mr Blue Sky**](15-Mr-Blue-Sky)
 
