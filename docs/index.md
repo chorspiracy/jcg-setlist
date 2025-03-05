@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Winter Konzert - 28. Februar
+# Winter Konzert - 05. März
 
 Willkommen zum Winterkonzert des Jazzchor Campus Golm! Wir freuen uns, Sie am
 05. März um 19 Uhr im Kammermusiksaal im Haus 6 begrüßen zu dürfen.
