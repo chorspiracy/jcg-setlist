@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Sommerkonzert - 20. Spetember
+# Sommerkonzert - 20. September
 
 Willkommen zum Sommerkonzert des Jazzchor Campus Golm! Wir freuen uns, Sie am
 20. September um 19 Uhr in der Kirche am Neuendorfer Anger begrüßen zu dürfen.
