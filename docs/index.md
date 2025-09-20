@@ -3,30 +3,29 @@ hide:
   - toc
 ---
 
-# Winter Konzert - 05. März
+# Sommerkonzert - 20. Spetember
 
-Willkommen zum Winterkonzert des Jazzchor Campus Golm! Wir freuen uns, Sie am
-05. März um 19 Uhr im Kammermusiksaal im Haus 6 begrüßen zu dürfen.
+Willkommen zum Sommerkonzert des Jazzchor Campus Golm! Wir freuen uns, Sie am
+20. September um 19 Uhr in der Kirche am Neuendorfer Anger begrüßen zu dürfen.
 Der Eintritt ist frei.
 
 ## Programm
 
-* [**#lautsein**](01-Lautsein)
-* [**Jul, Jul, Strålande Jul**](02-jul-jul-strålande-jul)
-* [**Time after time**](03-time-after-time)
-* [**Ander Sevdaluk**](04-ander-sevdaluk)
-* [**How Sweet it is**](03-how-sweet-it-is)
-* [**Locus iste**](04-Locus-iste)
-* [**Viva la Vida**](07-viva-la-vida)
-* [**Unissasi Laulelet**](08-Unissasi-Laulelet)
-* [**Festung**](09-Festung)
+* [**Radio**](01-Radio)
+* [**Fragile**](02-Fragile)
+* [**Vois sur ton Chemin**](03-Vois-sur-ton-Chemin)
+* [**Earth Song**](04-Earth-Song)
+* [**Lets do it**](05-Lets-do-it)
+* [**I'll be There for You**](06-Ill-be-There-for-You)
+* [**Because**](07-because)
 
 kurze Pause
 
-* [**Chili Con Carne**](11-chili-con-carne)
-* [**Voi Voi**](12-voi-voi)
-* [**Gjendines Bådnlåt**](13-Gjendines-Badnlat)
-* [**Fragile**](14-fragile)
-* [**Mr Blue Sky**](15-Mr-Blue-Sky)
+* [**Ander Sevdaluk**](08-ander-sevdaluk)
+* [**Festung**](09-Festung)
+* [**#lautsein**](10-lautsein)
+* [**Kleiner Grauer Falter**](11-Kleiner-Grauer-Falter)
+* [**Im Traum**](12-Im-Traum)
+* [**Mr Blue Sky**](13-Mr-Blue-Sky)
 
 *Und wenn ihr nett fragt und euch noch warm ist, gibts vielleicht noch eine Zugabe ;)*
