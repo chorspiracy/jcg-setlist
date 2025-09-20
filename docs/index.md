@@ -17,7 +17,7 @@ Der Eintritt ist frei.
 * [**Earth Song**](04-Earth-Song)
 * [**Lets do it**](05-Lets-do-it)
 * [**I'll be There for You**](06-Ill-be-There-for-You)
-* [**Because**](07-because)
+* [**Because**](07-Because)
 
 kurze Pause
 
