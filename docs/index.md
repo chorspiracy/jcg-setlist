@@ -23,7 +23,7 @@ kurze Pause
 
 * [**Ander Sevdaluk**](08-ander-sevdaluk)
 * [**Festung**](09-Festung)
-* [**#lautsein**](10-lautsein)
+* [**#lautsein**](10-Lautsein)
 * [**Kleiner Grauer Falter**](11-Kleiner-Grauer-Falter)
 * [**Im Traum**](12-Im-Traum)
 * [**Mr Blue Sky**](13-Mr-Blue-Sky)
